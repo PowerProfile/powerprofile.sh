@@ -22,8 +22,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="A usable PowerShell profile for Cloud Admins and DevOps"
-      description="Description will go into a meta tag in <head />">
+      title="A usable PowerShell profile for Cloud Admins and DevOps">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

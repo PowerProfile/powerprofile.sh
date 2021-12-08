@@ -43,6 +43,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'android-chrome-512x512.png',
+      metadatas: [
+        { name: 'twitter:card', content: 'summary' },
+        { name: 'apple-mobile-web-app-title', content: 'PowerProfile.sh' },
+        { name: 'application-name', content: 'PowerProfile.sh' },
+        { name: 'msapplication-TileColor', content: '#0c74d4' },
+        { name: 'theme-color', content: '#0c74d4' }
+      ],
       navbar: {
         title: 'PowerProfile',
         hideOnScroll: true,
