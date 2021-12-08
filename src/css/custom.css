@@ -19,6 +19,7 @@
   --ifm-color-primary-dark: hsl(var(--site-primary-hue-saturation), 40%);
   --ifm-color-primary-darker: hsl(var(--site-primary-hue-saturation), 36%);
   --ifm-color-primary-darkest: hsl(var(--site-primary-hue-saturation), 32%);
+
   --ifm-color-primary-light: hsl(var(--site-primary-hue-saturation-light), 53%);
   --ifm-color-primary-lighter: hsl(var(--site-primary-hue-saturation-light), 57%);
   --ifm-color-primary-lightest: hsl(var(--site-primary-hue-saturation-light), 41%);
@@ -28,7 +29,6 @@
   --ifm-footer-link-color: #171717;
 
   font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-  font-size: .875rem;
 }
 
 .docusaurus-highlight-code-line {
@@ -63,23 +63,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h2 {
-  font-size: 2.25rem;
+  font-size: 1.95rem;
 }
 
 h3 {
-  font-size: 1.85rem;
+  font-size: 1.7rem;
 }
 
 h4 {
   font-size: 1.5rem;
-}
-
-h5 {
-  font-size: 1rem;
-}
-
-h6 {
-  font-size: .875rem;
 }
 
 .navbar {
