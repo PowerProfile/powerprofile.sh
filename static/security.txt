@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:Security@PowerProfile.sh
+Contact: https://twitter.com/Loredo
+Expires: 2025-01-01T00:00:00.000Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/CE9F9916928C0F586B1AE64D1E5EF5B6561E1A5F
+Preferred-Languages: en, de
+Canonical: https://powerprofile.sh/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzp+ZFpKMD1hrGuZNHl71tlYeGl8FAmGyhkoACgkQHl71tlYe
+Gl+1qQ//bI3P92F7c6tB+CBE5I6nscGJ3EpE4L1R/79b2a2wnag45dKjgGmNQG++
+6o1Q/NsHmcyQdODkCYQ3lWghhXkthbJXf2Zk7LJsLaKLMsANMRFAhyM2MIrnEIJt
+HFFrCcblUMt9mG/37RT4fBjpLjsv5qdDXchQjvUBmv0FIs1PFEn9CUuHnpUEls3o
+6hpSZ9+AjFurNkYevubz6nYIivRDeewNtAJBk2AB0a8eLtH2XbPALHK0bfqk1VwX
+GV7sfrQYvvUed8YwQOzJfO7Vh5iEzEVyfomr01HLf9ziyO4Gjmq3jKdQY+SUcUki
+sPyGQFRM8FMTaEJhE0FYwPPDMK/F7lkw0xkk/V0Zx36XZ26OHCGOEzrZkfFTyq1z
+mK3TTLg3/EeUNfqNMY4LR7oNQZPp0lEeC0OkucvUPGsvjHQR8ha6Ak/5StfNJmPD
+BLBJKBjps1Gf3Lt+vp75+OZtFFygKphuaF4T9vPYGvui0k6T3xO+i2uEt6Cmcwq/
+p6mYOewZW4EtMxuxKWM4KsB0Wcd0GMgJ2h56BrZ4xXa2sUjJv/vI60mJYr6AHCn4
+okDkag/CkK3/yZGJZ68HGtPxTH257DwERynhvNq+m7Xa5Ouf4ju5wf1/R/aDcTUs
+hh+MTLU787TePx22+6Vi6BBX3Ou78d2qNBMk7gGVYQWmjAl9w2Y=
+=O2BO
+-----END PGP SIGNATURE-----
