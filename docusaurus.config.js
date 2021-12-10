@@ -43,9 +43,21 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      defaultMode: 'light',
-      disableSwitch: false,
-      respectPrefersColorScheme: true,
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+        switchConfig: {
+          darkIcon: '🌙',
+          darkIconStyle: {
+            'font-size': '.675rem',
+          },
+          lightIcon: '☀️',
+          lightIconStyle: {
+            'font-size': '.675rem',
+          },
+        },
+      },
       image: 'android-chrome-512x512.png',
       metadatas: [
         { name: 'twitter:card', content: 'summary' },
