@@ -25,6 +25,13 @@
 			"problemMatcher": [],
 			"label": "npm: serve",
 			"detail": "docusaurus serve"
+		},
+		{
+			"type": "npm",
+			"script": "clear",
+			"problemMatcher": [],
+			"label": "npm: clear",
+			"detail": "docusaurus clear"
 		}
 	]
 }
