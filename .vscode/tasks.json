@@ -5,33 +5,24 @@
 			"type": "npm",
 			"script": "start",
 			"problemMatcher": [],
-			"label": "npm: start",
-			"detail": "docusaurus start"
-		},
-		{
-			"type": "npm",
-			"script": "build",
-			"group": {
-				"kind": "build",
-				"isDefault": true
+			"label": "Live view",
+			"detail": "Docusaurus live view on http://localhost:3000",
+			"group": "test",
+			"presentation": {
+				"reveal": "always",
+				"panel": "new"
 			},
-			"problemMatcher": [],
-			"label": "npm: build",
-			"detail": "docusaurus build"
-		},
-		{
-			"type": "npm",
-			"script": "serve",
-			"problemMatcher": [],
-			"label": "npm: serve",
-			"detail": "docusaurus serve"
+			"runOptions": {
+				"runOn": "folderOpen"
+			}
 		},
 		{
 			"type": "npm",
 			"script": "clear",
 			"problemMatcher": [],
-			"label": "npm: clear",
-			"detail": "docusaurus clear"
+			"label": "Clear build files",
+			"detail": "Clear Docusaurus generated files",
+			"group": "test"
 		}
 	]
 }
