@@ -59,7 +59,7 @@ const config = {
         },
       },
       image: 'android-chrome-512x512.png',
-      metadatas: [
+      metadata: [
         { name: 'twitter:card', content: 'summary' },
         { name: 'apple-mobile-web-app-title', content: 'PowerProfile.sh' },
         { name: 'application-name', content: 'PowerProfile.sh' },
