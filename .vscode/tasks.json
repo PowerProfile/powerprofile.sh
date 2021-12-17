@@ -23,6 +23,14 @@
 			"label": "Clear build files",
 			"detail": "Clear Docusaurus generated files",
 			"group": "test"
+		},
+		{
+			"type": "npm",
+			"script": "build",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build",
+			"detail": "docusaurus build"
 		}
 	]
 }

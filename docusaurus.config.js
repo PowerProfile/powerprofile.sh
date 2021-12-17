@@ -15,7 +15,7 @@ const config = {
   favicon: 'favicon.ico',
   organizationName: 'PowerProfile', // Usually your GitHub org/user name.
   projectName: 'powerprofile.sh', // Usually your repo name.
-  trailingSlash: false,
+  // trailingSlash: false,
 
   presets: [
     [
