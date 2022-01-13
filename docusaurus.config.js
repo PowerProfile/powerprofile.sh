@@ -50,11 +50,11 @@ const config = {
         switchConfig: {
           darkIcon: '🌙',
           darkIconStyle: {
-            'font-size': '.675rem',
+            'fontSize': '.675rem',
           },
           lightIcon: '☀️',
           lightIconStyle: {
-            'font-size': '.675rem',
+            'fontSize': '.675rem',
           },
         },
       },
@@ -92,7 +92,7 @@ const config = {
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
-          },
+          }
         ],
       },
       tableOfContents: {
