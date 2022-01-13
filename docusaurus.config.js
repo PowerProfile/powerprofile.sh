@@ -82,6 +82,12 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://www.powershellgallery.com/profiles/PowerProfile',
+            position: 'right',
+            className: 'header-psgallery-link',
+            'aria-label': 'PowerShell Gallery repository',
+          },
+          {
             href: 'https://github.com/PowerProfile',
             position: 'right',
             className: 'header-github-link',
