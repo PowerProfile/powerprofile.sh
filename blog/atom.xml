@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://powerprofile.sh/blog</id>
+    <title>PowerProfile Blog</title>
+    <updated>2021-12-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://powerprofile.sh/blog"/>
+    <subtitle>PowerProfile Blog</subtitle>
+    <icon>https://powerprofile.sh/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello, world.]]></title>
+        <id>hello-world</id>
+        <link href="https://powerprofile.sh/blog/hello-world"/>
+        <updated>2021-12-06T00:00:00.000Z</updated>
+        <author>
+            <name>Julian Pawlowski</name>
+            <uri>https://github.com/jpawlowski</uri>
+        </author>
+    </entry>
+</feed>

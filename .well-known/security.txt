@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:Security@PowerProfile.sh
+Contact: https://twitter.com/Loredo
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/CE9F9916928C0F586B1AE64D1E5EF5B6561E1A5F
+Preferred-Languages: en, de
+Canonical: https://powerprofile.sh/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzp+ZFpKMD1hrGuZNHl71tlYeGl8FAmGzJGQACgkQHl71tlYe
+Gl+KaQ/+IzlN3yRRPMcbsFbz6Xz6CPJuei5VjWygv3glzTGJi0qzRj9ynZ2jMAVM
+dIy/pwB9xiSIs4kRlQ1ysCuIJe75Y9jMSiNjJHTSwOh6QvUbiU0eYekqoy0YbWwv
+C57NK7e+zdg7IbrD8Vy+Vtxhl12wX/oE0zOwZPqrJckCKdz/TuKHHZkaXDo/cD8r
+uSUsZe6Lwz97/y0x54rxrBQDLLSiKQMO93O9SisR6o0mtSTgVvGKgPXYMtoROvyX
+cvW1i7MXMJrYHdfbQy0p/GwlZwmmwXjgcvklIvavY8Ty5hF4zOJ5/7AVqCu4gmwb
+ArNFicQvNkJn2TWJKl91m/PDIG3fATYCnJSyVSV9e82ccS/0IgbD4DlfrobwdEIV
+qS5J5oedgWlyWDCW0dQQ/JDvA6WR+lAXYmilpnrOyNkM9D8VStXh5ShDUB83IRw+
+W4BTWE/ZyHpFxUL8w9mRExgaUf874JjkiIC8bF3iPw0xFDgkQ9Xu4qHgYLzogh8b
+DUSe926vy4FQ0i1LDveWy5M7YW69oJ82eP/hk8xJ3q/TlW+2ETYGLV3InHoEzr9P
+exig3YSPh1JFFsnUowaNOqTskqrViEfLHaWz2K+DQg6frPhrCTaopCyoQzuqePMz
+CQMS3CG7pt8R3SostCZr1e9kFolYl4qxFCGTeoaKKWT6O3YlZyA=
+=Cj6c
+-----END PGP SIGNATURE-----
